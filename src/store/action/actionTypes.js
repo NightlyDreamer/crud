@@ -1,0 +1,18 @@
+export const AUTH_GOOGLE = 'AUTH_GOOGLE'
+export const AUTH_GOOGLE_FAILURE = 'AUTH_GOOGLE_FAILURE'
+export const AUTH_GOOGLE_REQUEST = 'AUTH_GOOGLE_REQUEST'
+export const AUTH_GOOGLE_SUCCESS = 'AUTH_GOOGLE_SUCCESS'
+
+export const GOOGLE_USER = 'GOOGLE_USER'
+
+export const SIGN_OUT = 'SIGN_OUT'
+
+export const GET_ALL_NEWS = 'GET_ALL_NEWS'
+
+export const ADD_NEWS = 'ADD_NEWS'
+
+export const GET_NEWS_BY_ID = 'GET_NEWS_BY_ID'
+
+export const DELETE_NEWS = 'DELETE_NEWS'
+
+export const UPDATE_NEWS = 'UPDATE_NEWS'
